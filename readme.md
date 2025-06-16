@@ -1,3 +1,1 @@
-Small old work for training object-oriented programming 
-
-Work in VS
+Small old work for training object-oriented programming in C#
