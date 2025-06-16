@@ -1,0 +1,22 @@
+D:\проги c#\easy\easy\obj\Debug\easy.csproj.AssemblyReference.cache
+D:\проги c#\easy\easy\obj\Debug\easy.Editor.resources
+D:\проги c#\easy\easy\obj\Debug\easy.Form1.resources
+D:\проги c#\easy\easy\obj\Debug\easy.Properties.Resources.resources
+D:\проги c#\easy\easy\obj\Debug\easy.csproj.GenerateResource.cache
+D:\проги c#\easy\easy\obj\Debug\easy.csproj.CoreCompileInputs.cache
+D:\проги c#\easy\easy\bin\Debug\easy.exe.config
+D:\проги c#\easy\easy\bin\Debug\easy.exe
+D:\проги c#\easy\easy\bin\Debug\easy.pdb
+D:\проги c#\easy\easy\obj\Debug\easy.exe
+D:\проги c#\easy\easy\obj\Debug\easy.pdb
+C:\MyGovnocod\easy\easy\bin\Debug\easy.exe.config
+C:\MyGovnocod\easy\easy\bin\Debug\easy.exe
+C:\MyGovnocod\easy\easy\bin\Debug\easy.pdb
+C:\MyGovnocod\easy\easy\obj\Debug\easy.csproj.AssemblyReference.cache
+C:\MyGovnocod\easy\easy\obj\Debug\easy.Editor.resources
+C:\MyGovnocod\easy\easy\obj\Debug\easy.Form1.resources
+C:\MyGovnocod\easy\easy\obj\Debug\easy.Properties.Resources.resources
+C:\MyGovnocod\easy\easy\obj\Debug\easy.csproj.GenerateResource.cache
+C:\MyGovnocod\easy\easy\obj\Debug\easy.csproj.CoreCompileInputs.cache
+C:\MyGovnocod\easy\easy\obj\Debug\easy.exe
+C:\MyGovnocod\easy\easy\obj\Debug\easy.pdb

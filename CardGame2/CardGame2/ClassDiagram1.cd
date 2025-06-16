@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CardGame2.Form1">
+    <Position X="15.75" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAACAAABAAAACAAAACAAAIAAAIAEAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame2.Options">
+    <Position X="7.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAEEAAGAQABAQBASACAAWIEA4AAQAkPCIQBAABAI=</HashCode>
+      <FileName>Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame2.Table">
+    <Position X="9.75" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQBQAAIACAUAhAAIASAAQACACCCoEAAIAAAAAAECQA=</HashCode>
+      <FileName>Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame2.Game">
+    <Position X="12" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EEAEAAACACAAABBAAAAAQIggACQACEAApIECAAACSAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame2.Card_player">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAkAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card_player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame2.Card">
+    <Position X="14" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAAIAAAAAAgAEAAAgAAAQAAAAAEAQwAhyEAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame2.EasyBot">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EasyBot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame2.Bot">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAYAABAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame2.MediumBot">
+    <Position X="2.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MediumBot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame2.Player">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardGame2.Rules">
+    <Position X="17.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rules.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

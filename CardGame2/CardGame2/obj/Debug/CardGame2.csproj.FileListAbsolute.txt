@@ -1,0 +1,13 @@
+D:\проги c#\CardGame2\CardGame2\bin\Debug\CardGame2.exe.config
+D:\проги c#\CardGame2\CardGame2\bin\Debug\CardGame2.exe
+D:\проги c#\CardGame2\CardGame2\bin\Debug\CardGame2.pdb
+D:\проги c#\CardGame2\CardGame2\obj\Debug\CardGame2.csproj.AssemblyReference.cache
+D:\проги c#\CardGame2\CardGame2\obj\Debug\CardGame2.Form1.resources
+D:\проги c#\CardGame2\CardGame2\obj\Debug\CardGame2.Options.resources
+D:\проги c#\CardGame2\CardGame2\obj\Debug\CardGame2.Properties.Resources.resources
+D:\проги c#\CardGame2\CardGame2\obj\Debug\CardGame2.Table.resources
+D:\проги c#\CardGame2\CardGame2\obj\Debug\CardGame2.csproj.GenerateResource.cache
+D:\проги c#\CardGame2\CardGame2\obj\Debug\CardGame2.csproj.CoreCompileInputs.cache
+D:\проги c#\CardGame2\CardGame2\obj\Debug\CardGame2.exe
+D:\проги c#\CardGame2\CardGame2\obj\Debug\CardGame2.pdb
+D:\проги c#\CardGame2\CardGame2\obj\Debug\CardGame2.Rules.resources
